@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EE0CC476-4C72-69F5-04B9-AB8DA7B2849C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "KiberPavlov",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
